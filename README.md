@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Longxuzn Zhao 
+# 👋 Hi, I'm Longxuan Zhao 
 
 ### 🚀 关于我  
 - 🔭 目前正在 北京大学攻读博士
