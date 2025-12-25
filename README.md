@@ -48,7 +48,8 @@
 
 ### 🏆 GitHub 成就  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zlxokok&theme=radical&row=2&column=4" />
+  幼儿园中班时曾获得全市讲故事大赛幼儿组一等奖
+  目前一事无成，未来一片光明
 </p>
 
 ---
