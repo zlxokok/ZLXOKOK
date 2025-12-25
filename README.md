@@ -1,11 +1,11 @@
-# 👋 Hi, I'm [你的名字]  
+# 👋 Hi, I'm Longxuzn Zhao 
 
 ### 🚀 关于我  
-- 🔭 目前正在 [你的当前工作/学习状态]  
-- 🌱 学习方向： [你的技术栈，如：全栈开发、机器学习等]  
-- 💬 交流话题： [你感兴趣的技术领域]  
-- ⚡ 兴趣： [编程之外的爱好]  
-- 📫 联系我：[你的邮箱或社交媒体]  
+- 🔭 目前正在 北京大学攻读博士
+- 🌱 学习方向： 多模态医学图像处理
+- 💬 交流话题： 除了科研以外的所有 
+- ⚡ 兴趣： 钓鱼，下棋 
+- 📫 联系我：zhaoxuanlong254@gmail.com 
 
 ---
 
@@ -40,19 +40,20 @@
 ### 📝 最新博客文章  
 <!-- BLOG-POST-LIST:START -->
 <!-- 可以添加你的博客文章RSS -->
+暂无
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 ### 🏆 GitHub 成就  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[你的用户名]&theme=radical&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zlxokok&theme=radical&row=2&column=4" />
 </p>
 
 ---
 
 ### 🤝 开源贡献  
-![Snake animation](https://github.com/[你的用户名]/[你的用户名]/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/zlxokok/zlxokok/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -75,4 +76,4 @@
 ---
 
 ⭐️ 感谢访问我的主页！  
-[![Visitors](https://komarev.com/ghpvc/?username=[你的用户名]&color=blue)](https://github.com/[你的用户名])
+[![Visitors](https://komarev.com/ghpvc/?username=zlxokok&color=blue)](https://github.com/zlxokok)
