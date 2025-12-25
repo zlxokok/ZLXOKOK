@@ -54,7 +54,25 @@
 ---
 
 ### 🤝 开源贡献  
-![Snake animation](khttps://github.com/zlxokok/STSNet/blob/output/github-contribution-grid-snake.svg)
+### 🏥 STSNet
+**STS-Net: A Novel Framework for Segmentation of Small Targets in Medical Images**
+- 🐍 Python | ⭐ Stars: 11 | 📌 Forks: 1
+- 🔗 [项目链接](https://github.com/zlxokok/STSNet)
+
+### 🎯 MTGT
+**多模态文本图像融合**
+- 🐍 Python | 🔓 Public
+- 🔗 [项目链接](https://github.com/zlxokok/MIGT)
+
+### 🧠 MSAByNet
+**贝叶斯损失网络**
+- 🐍 Python | 🔓 Public
+- 🔗 [项目链接](https://github.com/zlxokok/MSAByNet)
+
+### 📊 MaTa
+**Mamba替代Transformer进行多模态处理**
+- 🐍 Python | 🔓 Public
+- 🔗 [项目链接](https://github.com/zlxokok/MaTa)
 
 ---
 
