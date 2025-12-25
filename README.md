@@ -33,6 +33,7 @@
 ### 🔥 本周动态  
 <!--START_SECTION:waka-->
 <!-- 如果需要可以添加wakatime统计 -->
+除了科研就是科研，我爱科研，科研爱我，我要科研一辈子
 <!--END_SECTION:waka-->
 
 ---
@@ -53,7 +54,7 @@
 ---
 
 ### 🤝 开源贡献  
-![Snake animation](https://github.com/zlxokok/zlxokok/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](khttps://github.com/zlxokok/STSNet/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
